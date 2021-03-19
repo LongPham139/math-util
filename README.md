@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 This is repro offers various math methods used as a helper for your project. 
 
-## You will find in this repo the following stuff:
+## _You will find in this repo the following stuff:_
 
 * .gitignore itself to demostrate how Git tool with upload a file or not 
 * README.md itself file to introduce the contents of this repo

@@ -1,8 +1,7 @@
-### Welcome to Math Utility Repository.
-<<<<<<< HEAD
-This is repro offers various math methods used as a helper for your project. 
+## Welcome to Math Utility Repository. This is repro offers 
+various math methods used as a helper for your project. 
 
-## _You will find in this repo the following stuff:_
+### _You will find in this repo the following stuff:_
 
 * .gitignore itself to demostrate how Git tool with upload a file or not 
 * README.md itself file to introduce the contents of this repo

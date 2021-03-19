@@ -1,4 +1,5 @@
 ### Welcome to Math Utility Repository.
+<<<<<<< HEAD
 This is repro offers various math methods used as a helper for your project. 
 
 ## You will find in this repo the following stuff:
@@ -14,3 +15,4 @@ e.g. getFactorial(), sin(), cos()
 [My Email](phamlong139@gmail.com)
 
 © 2021 LongPham
+

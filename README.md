@@ -11,7 +11,7 @@ e.g. getFactorial(), sin(), cos()
 * (TBA...)
 
 ### Connect me via:
-[My Facebook](https://www.facebook.com/LongPham139/)
+[My Facebook](https://www.facebook.com/LongPham139/)  
 [My Email](phamlong139@gmail.com)
 
 © 2021 LongPham

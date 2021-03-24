@@ -29,7 +29,7 @@ public class MathUtility {
         if(n == 0||n == 1)
             return 1; //khỏi mất công tính, return ngay
             //sống sót đến đoạn này n = 2..20
-        long result = 0;
+        long result = 1;
         for (int i = 2; i <= n; i++) {
             result *= i;
         }
